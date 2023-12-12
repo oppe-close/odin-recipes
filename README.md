@@ -1,2 +1,3 @@
 # odin-recipes
 This is a practice assignment from The Odin Project to learn basic: HTML, CSS, Javascript, etc...
+The project is a recipe website of some of my favorite and most important recipes.
